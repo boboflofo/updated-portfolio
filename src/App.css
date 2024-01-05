@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-header h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+.project-card {
+  margin: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card {
+  width: 18rem; 
+}
+
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.projects-list {
+  display: flex;
+  justify-content: space-around; 
+  flex-wrap: wrap;
+}
